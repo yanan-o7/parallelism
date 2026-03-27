@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+matrix_a.txt
+matrix_b.txt
+result.txt
+intermediate.txt
